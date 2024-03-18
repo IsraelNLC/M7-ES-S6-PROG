@@ -23,3 +23,5 @@ A proposta de fomentar o aprendizado contínuo em sistemas conversacionais é fu
 
 ## Referências Bibliográficas
 TOWARDS CONTINUAL KNOWLEDGE LEARNING OF LANGUAGE MODELS - Disponível em: https://arxiv.org/pdf/2110.03215.pdf
+Continual Learning in Neural Networks - A Review - Disponível em: https://arxiv.org/abs/1802.07569
+Challenges on Classifying Data Streams with Concept Drift - Disponível em: https://sol.sbc.org.br/index.php/sbbd_estendido/article/view/21854#:~:text=Concept%20Drift%20é%20um%20problema,reflitam%20cenários%20do%20mundo%20real.
