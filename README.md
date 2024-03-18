@@ -22,4 +22,4 @@ Descrição:
 A proposta de fomentar o aprendizado contínuo em sistemas conversacionais é fundamental para garantir que os modelos permaneçam relevantes e eficazes em um ambiente dinâmico. Embora isso exija esforço significativo em termos de coleta de dados, atualização de modelos e avaliação de desempenho, os benefícios em termos de precisão e adaptabilidade compensam esse investimento. Implementar essa proposta requer uma abordagem holística, combinando técnicas de aprendizado de máquina, engenharia de software e interação com o usuário.
 
 ## Referências Bibliográficas
-TOWARDS CONTINUAL KNOWLEDGE LEARNING OF LANGUAGE MODELS - Disponível em: (https://arxiv.org/pdf/2110.03215.pdf)[https://arxiv.org/pdf/2110.03215.pdf]
+TOWARDS CONTINUAL KNOWLEDGE LEARNING OF LANGUAGE MODELS - Disponível em: https://arxiv.org/pdf/2110.03215.pdf
