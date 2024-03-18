@@ -26,4 +26,4 @@ TOWARDS CONTINUAL KNOWLEDGE LEARNING OF LANGUAGE MODELS - Disponível em: https:
 
 Continual Learning in Neural Networks - A Review - Disponível em: https://arxiv.org/abs/1802.07569
 
-Challenges on Classifying Data Streams with Concept Drift - Disponível em: https://sol.sbc.org.br/index.php/sbbd_estendido/article/view/21854#:~:text=Concept%20Drift%20é%20um%20problema,reflitam%20cenários%20do%20mundo%20real.
+Challenges on Classifying Data Streams with Concept Drift - Disponível em: https://sol.sbc.org.br/index.php/sbbd_estendido/article/view/21854#:~:text=Concept%20Drift%20é%20um%20problema,reflitam%20cenários%20do%20mundo%20real
